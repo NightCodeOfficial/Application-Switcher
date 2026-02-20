@@ -68,7 +68,8 @@ python main.py
 ## TODO
 
 ### Core Behavior
-- [ ] Add ability to close selected application (graceful WM_CLOSE first, fallback force)
+- [ ] Add ability to close selected application
+- [ ] Filter out system applications and only display useful apps
 
 ### Refresh System
 - [ ] Implement periodic window list refresh
